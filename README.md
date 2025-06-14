@@ -27,8 +27,8 @@ This project detects and analyzes land cover changes along a river buffer using 
 
 ## 📥 Sample Visuals
 
-![Classified 1990](Data/Sample_Outputs/classified_1990.png)
-![Classified 2025](Data/Sample_Outputs/classified_2025.png)
+![Classified 1990](Data/Sample_Outputs/classified_1990.jpg)
+![Classified 2025](Data/Sample_Outputs/classified_2025.jpg)
 
 ## 🚀 Run it yourself
 

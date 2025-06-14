@@ -37,4 +37,4 @@ Just upload your shapefile and paste the script in `/Code`.
 
 ## 👤 Author
 
-Mahsa Hojat – [LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+Mahsa Hojat – [LinkedIn Profile](https://www.linkedin.com/in/mahsa-hojat-jalaly-3410b6b1/)
